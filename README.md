@@ -1,2 +1,2 @@
 # pod-specs
-Mapbox CocoaPods Private Specs
+Mapbox CocoaPods ~Private~ Public Specs
